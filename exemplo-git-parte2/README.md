@@ -1,1 +1,1 @@
-# exemplo-git-parte2
+A REA (Reverse Engineer Anything) é um projeto open source que permite a um agente de IA analisar programas compilados sem ter o código-fonte.
