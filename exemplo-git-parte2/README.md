@@ -1,1 +1,1 @@
-# exemplo-git-parte2
+A REA viralizou no GitHub, mas não reconstrói o código-fonte original e deve ser instalada só pelas fontes oficiais.
